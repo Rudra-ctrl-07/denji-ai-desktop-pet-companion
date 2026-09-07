@@ -1,0 +1,4 @@
+PySide6>=6.6.0
+plyer>=2.1.0
+pynput>=1.7.6
+pyinstaller>=6.0.0

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+*.bak
+*.spec.bak
+
+# PyInstaller
+dist/
+build/
+*.spec.bak
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Config (user-specific, lives in %APPDATA%)
+config.json
+config.json.tmp
+
+# Lock file
+running.lock
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
