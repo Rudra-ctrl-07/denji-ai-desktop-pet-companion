@@ -1,5 +1,7 @@
 # DenjiPet 🐾
 
+[![CI](https://github.com/Rudra-ctrl-07/denji-ai-desktop-pet-companion/actions/workflows/ci.yml/badge.svg)](https://github.com/Rudra-ctrl-07/denji-ai-desktop-pet-companion/actions/workflows/ci.yml)
+
 A Windows desktop pet app built with Python + PySide6, inspired by Shimeji and Comnyang.
 The pet lives on your desktop, runs a Pomodoro focus timer, swaps animations based on
 session state, and fires health nudge reminders while you work.
